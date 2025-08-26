@@ -1,30 +1,25 @@
 # covid19
 COVID-19 data analysis using Pandas, NumPy, and Matplotlib
-# 🦠 COVID-19 Data Analysis (Python Project)
+# COVID-19 Data Analysis (Python Project)
 
-## 📌 Overview
+## Overview
 This project analyzes **COVID-19 data** using Python in Jupyter Notebook.  
 It explores the dataset, performs data cleaning, visualization, and gives insights about the spread of COVID-19.  
 
-## 🚀 Features
+## Features
 - Data Cleaning & Preprocessing  
 - Statistical Summary of COVID-19 cases  
 - Graphical Representation (line charts, bar charts, etc.)  
 - Country-wise/State-wise Analysis  
 - Insights & Trends  
 
-## 🛠️ Technologies Used
+## Technologies Used
 - Python 3  
 - Pandas  
 - NumPy  
 - Matplotlib  
 - Jupyter Notebook  
 
-## 📂 Project Files
+##  Project Files
 - `Covid19.ipynb` → Jupyter Notebook with full analysis  
-- `README.md` → Project description and usage guide  
-
-## ▶️ How to Run
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/<your-username>/covid19-analysis.git
+- `README.md` → Project description and usage guide 
